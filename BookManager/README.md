@@ -1,1 +1,1 @@
-Project for Database Systems using Hibernate to populate the database based on Project 2 ER.
+Project for Database Systems using JDBC to allow DML and DQL statements to be processed from the console.
